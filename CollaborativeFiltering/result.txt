@@ -1,0 +1,5 @@
+地面实况->分钟->温度->undefined,http://10.178.12.131:7778/MeteoSMS/Web/lo/Live2.w.xhtml?firstType=SURF&secondType=min&thirdType=temperature&fourthType=TEM
+逐日资料,10.178.12.131:7778/MeteoSMS/Web/bm/Comprehensive.w.xhtml?name=逐日资料
+气候值日值查询,10.178.12.131:7778/MeteoSMS/Web/bm/Comprehensive.w.xhtml?name=气候值日值查询
+气候值月值查询,10.178.12.131:7778/MeteoSMS/Web/bm/Comprehensive.w.xhtml?name=气候值月值查询
+气候值季值查询,10.178.12.131:7778/MeteoSMS/Web/bm/Comprehensive.w.xhtml?name=气候值季值查询
